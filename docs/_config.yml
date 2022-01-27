@@ -5,27 +5,15 @@
 # Name of your site (displayed in the header)
 name: Christian Magana
 
-<<<<<<< HEAD
 # Short bio or description (displayed in the header)
 description: Friendly neighborhood hacker man
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/57321738?s=400&u=a0e5b244693d58b5222a6d634cd0fb1d4bfe125c&v=4
 
-=======
-# Build settings
-
-plugins:
-  - jekyll-feed
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
->>>>>>> 8aa392d80b0500669b8ef186d1fb3ca65337bb5b
 #
 # Flags below are optional
 #
-<<<<<<< HEAD
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -95,18 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-=======
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-theme: jekyll-theme-hacker
->>>>>>> 8aa392d80b0500669b8ef186d1fb3ca65337bb5b
