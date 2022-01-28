@@ -1,8 +1,6 @@
-I"ý<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
+I"ì<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
 
 <h2 id="week-1">Week 1</h2>
-
-<p>1-26-2022</p>
 
 <h3 id="scenario--">Scenario -</h3>
 
@@ -10,11 +8,19 @@
 
 <h3 id="response--">Response -</h3>
 
-<p>A mathematical statement is made up of an assumption and a conclusion. Implications are an if then relationship. Implications are always true unless, the condition is met but the outcome is not as expected.</p>
+<p>A mathematical statement is made up of a hypothesis and a conclusion. Implications are an if then relationship. Implications are always true unless, the condition is met but the outcome is not as expected.</p>
 
 <blockquote>
-  <p>if I go to the movies =&gt; I will by popcorn</p>
+  <p>if I go to the movies =&gt; I will buy popcorn</p>
 </blockquote>
 
 <p>This statement is only false If i go to the movies and do not buy popcorn. If I decide to not go to the movies then it is automatically true.</p>
+
+<p>Another example of an implication would be:</p>
+
+<blockquote>
+  <p>if i am going to work =&gt; I will drink coffee in the morning.</p>
+</blockquote>
+
+<p>Once again this statement is only false if i go to work and do not drink coffee in the morning.</p>
 :ET
