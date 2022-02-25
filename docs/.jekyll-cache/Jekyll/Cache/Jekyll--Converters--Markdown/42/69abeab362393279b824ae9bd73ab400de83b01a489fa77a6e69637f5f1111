@@ -1,0 +1,42 @@
+I":<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
+
+<h2 id="week-2">Week 2</h2>
+
+<h3 id="scenario--">Scenario -</h3>
+
+<p>Suppose you had the role of instructor for this course. Scary, I know. You’ve taught this class a few times and you notice that students always have trouble distinguishing between subsets and membership. Explain each concept and how they differ. Be sure to include at least two examples.</p>
+
+<h3 id="response--">Response -</h3>
+
+<p>Subsets and membership are two similar concepts. However, membership is simple when an element is in a specified set.
+For example:</p>
+
+<blockquote>
+  <p>A = {1, 2, 3, 4, 5}</p>
+</blockquote>
+
+<blockquote>
+  <p>3 ∈ A</p>
+</blockquote>
+
+<p>In this case we are showing 3 being an element of A. In essence membership is when an element shows up in a set.</p>
+
+<p>Subsets are when all elements of one set appear in another.
+For example:</p>
+
+<blockquote>
+  <p>A = {1, 2, 3, 4, 5}</p>
+</blockquote>
+
+<blockquote>
+  <p>B = {1 , 2, 3}</p>
+</blockquote>
+
+<blockquote>
+  <p>B ⊂ A</p>
+</blockquote>
+
+<p>So because every element in set B shows up in set A, B is a subset of A.</p>
+
+<p>Note the use of the ⊂ sign rather than the ⊆ sign. This is because this is a proper subset. A proper subset essentially means the two sets differ in some way.</p>
+:ET
