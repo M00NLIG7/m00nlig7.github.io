@@ -1,0 +1,20 @@
+I"õ<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
+
+<h2 id="week-6">Week 6</h2>
+
+<h3 id="scenario--">Scenario -</h3>
+
+<p>Alice and Bob, still visiting Earth from last time, have discovered the beauty of human food. They are particularly fond of pie: sweet potato, pumpking, and pecan being their favorites. You are telling them that you can do lots with PIE (principle of inclusion and exclusion). You can even count with it! Come up with two counting questions to illustrate the utility of pie in combinatorics. Be sure at least one of your examples uses at least three sets.</p>
+
+<h3 id="response--">Response -</h3>
+
+<p>As we know the PIE equation is
+\(|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cap C| - |B \cap C| + |A\cap B \cap C|\text{.}\)
+How many functions f: {a, b, c, d, e} -&gt; {f, g, h, i} are surjective?</p>
+
+<p>There are $4^5$ functions total. Using PIE we can find the number of functions which are not surjective and subtract them from the total. The number of functions which are not surjective is:
+\({4\choose 1} {3^5} - {4\choose 2} {2^5} + {4\choose 3} {1^5}\)</p>
+
+<p>Now we know that the number of surjective functions is:
+\({4^5}-({4\choose 1}{3^5} - {4\choose 2}{2^5}+{4\choose 3}{1^5})\)</p>
+:ET

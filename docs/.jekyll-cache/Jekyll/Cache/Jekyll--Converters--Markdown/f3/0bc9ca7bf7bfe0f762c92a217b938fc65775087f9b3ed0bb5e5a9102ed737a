@@ -1,0 +1,16 @@
+I""<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
+
+<h2 id="week-9">Week 9</h2>
+
+<h3 id="scenario--">Scenario -</h3>
+
+<p>Alice and Bob were each (separately) working on sequences related to the Fibonacci recursion: the next term is the sum of the previous terms. Alice, on their tenth term, had the number 20. Bob, on their tenth turn, had the number 17. This surprised them! Please explain to Alice and Bob why they have different numbers on their tenth term even though they both used the Fibonacci recursion.</p>
+
+<h3 id="response--">Response -</h3>
+
+<p>This is most likely because they had different starting points. The tradition fibonacci sequence has the startin gnumbers of 0 and 1. That means the squence goes \(0, 1, 1, 2, 3, 5, 8, 13, 21, 34\)</p>
+
+<p>Because it is recursively defined the changing the starting point changed the entire sequence.</p>
+
+<p>This is true across all recursively defined functions. This is becuase recursive functions must call upon the previous numbers to get the next number.</p>
+:ET

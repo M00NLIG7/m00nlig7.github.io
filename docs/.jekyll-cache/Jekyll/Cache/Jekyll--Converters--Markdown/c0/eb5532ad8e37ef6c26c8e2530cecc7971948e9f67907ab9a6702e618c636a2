@@ -1,0 +1,28 @@
+I"M<h2 id="math-2720-01---discrete-mathematics">MATH 2720 (01) - DISCRETE MATHEMATICS</h2>
+
+<h2 id="week-8">Week 8</h2>
+
+<h3 id="scenario--">Scenario -</h3>
+
+<p>At the warm-up event for Bronson’s All Star Hot Dog Eating Contest (BASHDog), Al ate one hot dog. Bob then showed him up by eating three hot dogs. Not to be outdone, Carl ate five. This continued with each contestant eating two more hot dogs than the previous contestant.</p>
+
+<h3 id="response--">Response -</h3>
+
+<p>Closed Formula of sequence 1,3,5,7,9:</p>
+
+\[a_n = 2n+1\]
+
+<p>How many hot dogs did Zeno (the 26th and final contestant) eat?
+The final contestant ate 51 hot dogs.</p>
+
+<p>How many hot dogs were eaten all together?
+676 hot dogs were eaten total</p>
+
+<p>What are the mathematical techniques you used to solve this?</p>
+
+<p>I started by identifying the sequence. We can see that it is an arithmetic sequence because the current term minus the preciding term is consistent. We determine our common difference (d) is 2. I then wrote out the closed formula for a arithmetic sequence which is \(a_n = a+dn \text{ where } a = a_0\)
+This means our closed formula is \(a_n = 2n+1\)</p>
+
+<p>Now in order to find the sum of this sequence we must do the first term plus the last term to get $2\sum$ and then divide it by 2 to get our $\sum$
+\(\sum = 26(a_0 + a_{26})/2 = 26(52)/2 = 676\)</p>
+:ET
